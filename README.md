@@ -80,3 +80,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Srustika-18&show_icons=true&custom_title=Srustika%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=ffffff&text_color=000000&icon_color=74d7ff&title_color=74d7ff">
   <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=Srustika-18&show_icons=true&custom_title=Srustika%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=74d7ff&title_color=74d7ff">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Srustika-18&theme=dark&hide_border=true&border_radius=6&background=0d1117&ring=74d7ff&fire=74d7ff&currStreakLabel=74d7ff&stroke=444444">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Srustika-18&theme=ayu-light&hide_border=true&border_radius=6&background=0d1117&ring=74d7ff&fire=74d7ff&currStreakLabel=74d7ff&stroke=444444">
+  <img alt="My Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Srustika-18&theme=dark&hide_border=true&border_radius=6&background=0d1117&ring=74d7ff&fire=74d7ff&currStreakLabel=74d7ff&stroke=444444">
+</picture>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srustika-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srustika-18&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img alt="My Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srustika-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</picture> -->
