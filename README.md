@@ -23,7 +23,7 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		🤝 Open to collaborations on interesting projects. Let's create together
+		🤝 Open to collaborations on interesting projects. Let's create together.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
