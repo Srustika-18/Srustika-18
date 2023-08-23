@@ -1,6 +1,6 @@
 <!-- [![MasterHead](imgs/weatherwithyouLarge.gif)](#) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=80&width=1000&size=70&font=Raleway&color=74d7ff&vCenter=true&lines=Hi!;I%27m+Srustika!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=80&width=1000&size=70&font=Raleway&color=74d7ff&vCenter=true&lines=Hello!%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Srustika!%E2%9C%A8)](https://git.io/typing-svg)
 
 <br>
 <img align="right" width=400 class="catImg" src="https://media.tenor.com/EL4q2qSRNzoAAAAC/riku-ti.gif" alt="cats are love.">
